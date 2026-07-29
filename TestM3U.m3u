@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1,Zee Bangla
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FZ_BANGLA%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1,Star Jalsha
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.191.99.248%3A5550%2F302%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1,Colors Bangla
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FCOLORS_BANHLA%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1,Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+
+#EXTINF:-1,Jalsha Movies
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FJalsha_Movie%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1,ZeeB Cartoon
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2Fzbcatun%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1,Sun Bangla
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSUN_BANGLA%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1,Sangeet Bangla
+https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9jZG4tNC5waXNob3cudHYvbGl2ZS8xMTQzLzExNDNfMS5tM3U4fHx8fHx8e30/1143_1.m3u8
+
 #EXTINF:-1,T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 

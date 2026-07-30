@@ -2,7 +2,13 @@
 #EXTINF:-1,Zee Bangla
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FZ_BANGLA%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha RDSD
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FStar_Jalsha%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1,Star Jalsha RDHD
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.191.99.248%3A5550%2F302%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1,Star Jalsha Sky
 https://go.skym3u.top/live/3b1f0d3d404f707f1c071d111a130d152b300d16020c063a1c49474623081d231d1b3a244a021f04180c0b0370201102000f1533415853196253497d1d186c255d.m3u8
 
 #EXTINF:-1,Colors Bangla

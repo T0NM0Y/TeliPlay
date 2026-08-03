@@ -6,13 +6,13 @@ https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FZ
 #EXTINF:-1,Star Jalsha Orbit
 http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
 
-#EXTINF:-1,Star Jalsha TataPlay
+#EXT Blank INF:-1,Star Jalsha TataPlay
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 
-#EXTINF:-1,Star Jalsha RDSD
+#EXT Blank INF:-1,Star Jalsha RDSD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FStar_Jalsha%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 
-#EXTINF:-1,Star Jalsha RDHD
+#EXT Blank INF:-1,Star Jalsha RDHD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.191.99.248%3A5550%2F302%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXT Blank INF:-1,Star Jalsha Sky

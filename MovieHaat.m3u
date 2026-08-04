@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1,TSports
+http://172.19.17.230:8090/hls/tsportshd.m3u8
+
+#EXTINF:-1,Somoi
+http://172.19.17.230:8090/hls/somoytv.m3u8
+
+#EXTINF:-1,BTV
+http://172.19.17.230:8090/hls/BTVNationalHD2.m3u8
+
+#EXTINF:-1,Sony Aath
+http://172.19.17.230:8090/hls/SonyAtth.m3u8
+
+#EXTINF:-1,Jalsha Movies HD
+http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
+
+#EXTINF:-1,Star Jalsha HD
+http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
+
+#EXTINF:-1,Sangeet Bangla
+http://172.19.17.230:8090/hls/SangeetBangla.m3u8
+
+#EXTINF:-1,Cartoon Network HD
+http://172.19.17.230:8090/hls/CartoonNetworkHD.m3u8
+
+#EXTINF:-1,And Picture HD
+http://172.19.17.230:8090/hls/AndPictureHD.m3u8
+
+#EXTINF:-1,Star Movies HD
+http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
+
+#EXTINF:-1,Discovery HD
+http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://172.19.17.230:8090/hls/NatGeoWild.m3u8
